@@ -1,3 +1,4 @@
+# program for printing index of a string
 name =  str(input("Enter a Name: "))
 index = 0
 for char in name:
